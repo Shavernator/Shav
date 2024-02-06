@@ -1,0 +1,17 @@
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\bin\Debug\net8.0-windows\TriangleForms.exe
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\bin\Debug\net8.0-windows\TriangleForms.deps.json
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\bin\Debug\net8.0-windows\TriangleForms.runtimeconfig.json
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\bin\Debug\net8.0-windows\TriangleForms.dll
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\bin\Debug\net8.0-windows\TriangleForms.pdb
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.Form1.resources
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.csproj.GenerateResource.cache
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.AssemblyInfoInputs.cache
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.AssemblyInfo.cs
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.csproj.CoreCompileInputs.cache
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.dll
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\refint\TriangleForms.dll
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.pdb
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.genruntimeconfig.cache
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\ref\TriangleForms.dll
+C:\Users\ip521-18.EMK\source\repos\TriangleForms\TriangleForms\obj\Debug\net8.0-windows\TriangleForms.Form2.resources
